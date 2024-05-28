@@ -1,1 +1,1 @@
-Number Guessing Game using JAVA.
+Number Guessing Game and Grade Calculator using JAVA.
