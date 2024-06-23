@@ -3,3 +3,4 @@ CodSoft Internship tasks as a Java Programmer:
 2.) Grade calculator
 3.) ATM Interface
 4.) Quiz with Timer
+5.) Course Registration System
